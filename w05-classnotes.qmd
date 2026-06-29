@@ -1,0 +1,28 @@
+---
+title: "W05-classnotes"
+author: "Thomas Prata"
+date: '`r format(Sys.time())`'
+format: 
+  html:
+    toc: true
+    toc-depth: 4
+    toc-expand: true
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: flatly
+    code-fold: true
+    code-overflow: wrap
+    code-tools: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+# class Overview
+
+# Assignment deadline overview
+
+# Appendix
+
+-   My webpage for this work :
